@@ -2,6 +2,7 @@
 Simplified version of the original LC-3 programmed on SystemVerilog
 
 **Summary**
+
 The program is able to run both on the FPGA and on ModelSim with different type of instantiated memory.
 When running on the FPGA the side switches are able to initialize the program counter to a specific location for testing
 
